@@ -28,6 +28,6 @@ int main()
 
 		}
 	} while (n / 10 > 0);
-
+	cout << "Sum of extreme numbers : " << endl;
 	cout << d + s;
 }
